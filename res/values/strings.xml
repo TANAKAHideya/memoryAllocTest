@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">memoryalloc</string>
+    <string name="menu_settings">Settings</string>
+    <string name="go">go</string>
+    <string name="step">step</string>
+    <string name="message">Push go or step button. Check logcat to see the result.</string>
+
+</resources>
